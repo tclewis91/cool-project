@@ -1,0 +1,22 @@
+h1{
+	color: white;
+}
+h4{
+	color: white;
+}
+.sky-blue{
+	background-color: rgb(38,121,176);
+	height: 44px;
+}
+.navy-blue{
+	background-color: rgb(40,49,63);
+	height: 680px;
+ 	padding: 100px;
+}
+.sky-blue1{
+	background-color: rgb(38,121,176);
+	height: 22px;
+	margin-bottom: 400px
+	border: solid black 5px;
+}
+
