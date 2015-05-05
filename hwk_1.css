@@ -10,13 +10,80 @@ h4{
 }
 .navy-blue{
 	background-color: rgb(40,49,63);
-	height: 680px;
- 	padding: 100px;
+	height: 800px;
 }
 .sky-blue1{
 	background-color: rgb(38,121,176);
-	height: 22px;
-	margin-bottom: 400px
-	border: solid black 5px;
+	height: 50px;
+	border: solid 12px;
+	border-color: rgb(25,31,39);
+	margin-top: 70px;
+	margin-right: 245px;
+	margin-left:245px;
+	margin-bottom: 90px;
 }
-
+.white{
+	background-color: white;
+	height:22px;
+	margin-top: 20px;
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-bottom: 100px;
+}
+.white1{
+	background-color: white;
+	height: 75px;
+	margin-bottom: 50px;
+	margin-right: 100px;
+	margin-left:100px;
+}
+.white2{
+	background-color: white;
+	height: 75px;
+	margin-bottom: 30px;
+	margin-right: 100px;
+	margin-left:100px;
+}
+.white3{
+	background-color: white;
+	height: 60px;
+	margin-bottom: 20px;
+	margin-right: 100px;
+	margin-left:100px;
+}
+.grey{
+	height: 1530px;
+	background-color: rgb(226,235,241);
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 34px;
+	padding-bottom: 34px;
+}
+.white4{
+	background-color: white;
+	height: 200px;
+	margin-top:50px;
+	margin-right:25px;
+	margin-left:25px;
+}	
+.white5{
+	background-color: white;
+	height: 200px;
+	margin-top:140px;
+	margin-right:25px;
+	margin-left:25px;
+}
+.white6{
+background-color: white;
+	height: 180px;
+	margin-top:200px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.white7{
+	background-color: white;
+	height: 200px;
+	margin-top:205px;
+	margin-right:25px;
+	margin-left:25px;
+}
