@@ -1,0 +1,26 @@
+homeworkreview.css
+.example {
+	height: 300px;
+	background color: black url (insert weblink);
+	background-repeat: no-repeat;
+	background-position: top-right;
+	margin-bottom: 10px;
+	padding-top: 65px
+}
+/*margins shifting
+*/
+.child{
+	height: 300;
+	background-color: blue;
+	border: 30px dashed red;
+	width:100%
+	box-sizing: border-box;
+	color: #fff;
+	font-size: 24px;
+	opacity:0.3;
+	padding: 8px;
+
+
+	/*put padding on parent*/
+}
+
