@@ -1,0 +1,22 @@
+
+.sky-blue{
+	background-color: rgb(38,121,176);
+	height: 40px;
+}
+.navy-blue{
+	background-color: rgb(40,49,63);
+	height: 760px;
+	margin-top: 40px;
+	text-align: center;
+
+}
+.sky-blue1{
+	background-color: rgb(38,121,176);
+	text-decoration: white;
+	height:50px;
+	border: solid 12px;
+	border-color: rgb(25,31,39);
+	margin-right: 245px;
+	margin-left:245px;
+	margin-bottom: 90px;
+}
